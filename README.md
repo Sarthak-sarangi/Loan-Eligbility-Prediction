@@ -1,2 +1,1 @@
-# Project-1
-Loan Eligibility Prediction
+# Loan Eligibility Prediction
